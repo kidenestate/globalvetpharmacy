@@ -1,0 +1,7 @@
+.service-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #6d1a1a;
+  padding: 20px;
+}
